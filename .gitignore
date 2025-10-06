@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+ola.db
+*.sqlite
+.env
+venv/
+.ipynb_checkpoints/
