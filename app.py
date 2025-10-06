@@ -10,8 +10,8 @@ import altair as alt
 st.set_page_config(page_title="Ola Ride Insights", layout="wide")
 
 # ---------- PATHS ----------
-EXCEL_PATH = r"C:\Users\junai\Ola\OLA_DataSet.xlsx"
-CLEAN_CSV = r"C:\Users\junai\Cleaned_OLA_Data.csv"
+EXCEL_PATH = "OLA_DataSet.xlsx"
+CLEAN_CSV = "Cleaned_OLA_Data.csv"
 SQLITE_DB = os.path.join(os.getcwd(), "ola.db")  # creates inside project folder
 
 # ---------- Helper: load or create cleaned CSV ----------
@@ -151,3 +151,4 @@ if os.path.exists(img_folder):
             col.image(os.path.join(img_folder, img), caption=img, use_column_width=True)
 
 st.write("Streams created. To run the app: `streamlit run app.py` in this folder.")
+
