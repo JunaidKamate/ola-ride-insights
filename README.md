@@ -43,7 +43,7 @@ Streamlit App – Displays SQL results, charts, and embedded Power BI visuals
 ---
 
 ## 🚀 Run Locally
-git clone https://github.com/<your-username>/ola-ride-insights.git
+git clone https://github.com/JunaidKamate/ola-ride-insights.git
 cd ola-ride-insights
 pip install -r requirements.txt
 streamlit run app.py
@@ -54,9 +54,7 @@ App runs at http://localhost:8501
 ## 🌐 Deployment
 
 Deployed on Streamlit Cloud
-🔗 https://ola-ride-insights-yourusername.streamlit.app
-
-(replace with your actual link after deployment)
+🔗 [https://ola-ride-insights-JunaidKamate.streamlit.app](https://ola-ride-insights-h8xpe8kb3nvhv5jp4njidq.streamlit.app/)
 
 ---
 
