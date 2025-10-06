@@ -1,14 +1,14 @@
 ## 🟢 Ola Ride Insights
 SQL · Power BI · Streamlit · Data Analytics Project
 
---
+---
 
 ## 📌 Overview
 
 Ola Ride Insights analyzes ride-hailing data to extract business and operational insights.
 It combines SQL queries, Power BI dashboards, and a Streamlit web app to study booking patterns, cancellations, revenue, and ratings.
 
---
+---
 
 ## 🎯 Objectives
 
@@ -20,13 +20,13 @@ Understand cancellation reasons
 
 Visualize insights through Power BI & Streamlit
 
---
+---
 
 ## ⚙️ Tools & Technologies
 
 Python, SQL (SQLite), Pandas, Altair, Power BI, Streamlit, GitHub
 
---
+---
 
 ## 🧠 Workflow
 
@@ -38,7 +38,7 @@ Power BI Dashboard – 5 views (Overall, Vehicle, Revenue, Cancellation, Ratings
 
 Streamlit App – Displays SQL results, charts, and embedded Power BI visuals
 
---
+---
 
 ## 🚀 Run Locally
 git clone https://github.com/<your-username>/ola-ride-insights.git
@@ -47,7 +47,7 @@ pip install -r requirements.txt
 streamlit run app.py
 App runs at http://localhost:8501
 
---
+---
 
 ## 🌐 Deployment
 
@@ -56,7 +56,7 @@ Deployed on Streamlit Cloud
 
 (replace with your actual link after deployment)
 
---
+---
 
 ## 📈 Key Insights
 
@@ -68,7 +68,7 @@ Driver cancellations dominate due to personal or vehicle issues
 
 80%+ of ratings are 4★ and above
 
---
+---
 
 ## Author:
 ## Junaid Kamate
